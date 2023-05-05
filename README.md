@@ -2,4 +2,4 @@
 Swiggy with new css
 
 url
-https://peppy-lebkuchen-b51b40.netlify.app/
+https://clone-of-swiggy.netlify.app/
