@@ -3,15 +3,16 @@
   /* upper bar */
     .upper-bar{
       display: block;
-      box-shadow: 0 15px 40px -20px rgb(40 44 63 / 15%);
+      /* box-shadow: 0 15px 40px -20px rgb(40 44 63 / 15%); */
       position: fixed;
       top: 0;
       left: 0;
       right: 0;
-      height: 8vh;
-      background-color: #efefef87;
+      height: 9vh;
+      background-color: white;
       z-index: 1000;
       padding: 0px 7px;
+      box-shadow: 0 -2px 5px 0px #333;
     }
 
     .mob-logo{
@@ -23,7 +24,7 @@
     }
 
     .mob-logo img{
-        height: 54px;
+        height: 45px;
         width: 35px;
     }
 
@@ -209,9 +210,9 @@
         margin-top: 10%;
     }
 
-    .list-item{
-/*       height: 31vh; */
-    }
+    /* .list-item{
+      height: 31vh;
+    } */
 
     .info-div{
         /* width: 95%; */
