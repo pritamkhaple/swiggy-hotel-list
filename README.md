@@ -2,4 +2,4 @@
 Swiggy with new css
 
 url
-https://clone-of-swiggy.netlify.app/
+https://swiggy-hotels.netlify.app/
